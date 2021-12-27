@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\bin\Debug\LoginMvc.dll.config
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\bin\Debug\LoginMvc.dll
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\bin\Debug\LoginMvc.pdb
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\obj\Debug\LoginMvc.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\obj\Debug\LoginMvc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\obj\Debug\LoginMvc.csproj.CopyComplete
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\obj\Debug\LoginMvc.dll
+C:\Users\Admin\source\repos\LoginWeb\LoginMvc\obj\Debug\LoginMvc.pdb
